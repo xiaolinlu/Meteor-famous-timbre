@@ -90,6 +90,8 @@ For more docs about Famono checkout the repo at [raix/Meteor-famono](https://git
 
 Meteor Famous Components is WIP but looking good [gadicc/meteor-famous-components](https://github.com/gadicc/meteor-famous-components)
 
+Theres a great blog explaining this stuff in Coffee script too http://pem-musing.blogspot.fr
+
 ## Thats about it
 
 Kind regards Morten *(aka RaiX)*
