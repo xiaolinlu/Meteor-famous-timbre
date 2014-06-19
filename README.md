@@ -1,9 +1,9 @@
+# Timbre
 Famous Meteor Timbre example Famono Style...
-============================================
 
 After a couple of requsts I've converted the Timbre example to Meteor using Famono.
 
-# Getting started with Meteor and Famous
+## Getting started with Meteor and Famous
 Using Meteor this is actually alot simpler than using Famous own starter kit (imho) - And you get Meteor not just the fancy top layer :p
 
 Install Meteor:
@@ -38,7 +38,7 @@ Create an empty Meteor app rigged for Famous:
     $ meteor
 ```
 
-# Timbre example
+## Timbre example
 I really just converted / simplified the org code showing some of the features in famono and Meteor.
 
 ```bash
@@ -84,11 +84,11 @@ Famono gives you a library scope adapted to your code - it only bundles what you
     // ...
 ```
 
-# More
+## More
 For more docs about Famono checkout the repo at [raix/Meteor-famono](https://github.com/raix/Meteor-famono)
 
 Meteor Famous Components is WIP but looking good [gadicc/meteor-famous-components](https://github.com/gadicc/meteor-famous-components)
 
-# Thats about it
+## Thats about it
 
 Kind regards Morten *(aka RaiX)*
