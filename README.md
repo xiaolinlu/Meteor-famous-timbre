@@ -24,13 +24,13 @@ Create an empty Meteor app rigged for Famous:
     $ meteor create foo
     # go into the new app folder
     $ cd foo
-    # add the famono package
     #
     # I guess in the Timbre case you could:
     # $ meteor remove insecure
     # $ meteor remove autopublish
     # $ meteor remove standard-app-packages
     # 
+    # add the famono package
     $ mrt add famono
     # hit your editor
     $ subl .
@@ -43,7 +43,7 @@ I really just converted / simplified the org code showing some of the features i
 
 ```bash
   # completely untested - so dont copy paste
-  $ git clone http://github.com/raix/Meteor-famous-timbre.git timbre
+  $ git clone https://github.com/raix/Meteor-famous-timbre.git timbre
   $ cd timbre
   $ meteor
   # open your browser on localhost:3000
@@ -57,7 +57,8 @@ Famono gives you a library scope adapted to your code - it only bundles what you
   famousPolyfills;
   famous.core.famous;
 
-  // You can access the library scope directly
+  // You can access the global library scope directly
+  // again Famono only rigs what you need..
   var mainContext = famous.core.Engine.createContext();
   var appView = new AppView();
 
