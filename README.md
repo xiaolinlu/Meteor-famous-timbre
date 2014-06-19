@@ -54,7 +54,7 @@ Famono gives you a library scope adapted to your code - it only bundles what you
 `main.js`
 ```js
   // Rig some famo.us deps
-  famousPolyfills;
+  famous.polyfills;
   famous.core.famous;
 
   // You can access the global library scope directly
