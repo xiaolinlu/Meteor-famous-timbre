@@ -39,7 +39,7 @@ Create an empty Meteor app rigged for Famous:
 ```
 
 ## Timbre example
-I really just converted / simplified the org code showing some of the features in famono and Meteor.
+I really just converted / simplified the org code showing some of the features in famono and Meteor. I havent gone cleaning up code style or stuff like that... or further improving eg. by using Meteor templates or adding Meteor realtime stuff etc.
 
 ```bash
   # completely untested - so dont copy paste
