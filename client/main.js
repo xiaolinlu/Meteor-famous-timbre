@@ -1,7 +1,7 @@
 /*** main.js ***/
 
 // Rig some famo.us deps
-  famousPolyfills;
+  famous.polyfills;
   famous.core.famous;
 
   var mainContext = famous.core.Engine.createContext();
